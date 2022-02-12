@@ -1,4 +1,4 @@
-# AUTOR: TWOJEIMIE
+# AUTOR: jasieq9191
 # Zasady: https://github.com/ZPXD/LinuxHot16Challenge
 
 # HOT 16
